@@ -15,6 +15,7 @@ This project utilizes Explainable AI (XAI) techniques like SHAP and LIME to enha
 ---
 
 ## Highlights
-- **Collaboration**: Mentored three sophomores to implement XAI models.
+- **Collaboration**: Worked alongside my team under the guidance of a fourth-year senior to implement XAI models.
 - **Implementation**: Built and evaluated eight ML models with XAI techniques.
 - **Publication**: Submitted to *2025 10th ICSC* under Intelligent Computing and Machine Learning. [Details](link).
+- **Presentation**: Presented our research at the behalf of my team at *2025 10th ICSC* under Intelligent Computing and Machine Learning.
